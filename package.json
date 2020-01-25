@@ -1,0 +1,15 @@
+{
+  "name": "webd6201-lab-1",
+  "version": "1.0.0",
+  "description": "Lab 1 for WEBD6201.",
+  "main": "index.js",
+  "repository": "https://github.com/jzbakos/webd6201-lab-1.git",
+  "author": "Josh Bakos <jzbakos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
+}
